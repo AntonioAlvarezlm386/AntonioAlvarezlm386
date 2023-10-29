@@ -51,6 +51,8 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 
 ## 🌐 Contact Me:
 <a href="https://www.linkedin.com/in/antonio-lópeza7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/></a>
-<img width="12" />
+<a href="mailto:antoniolm386@gmail.com"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png?f=webp&amp" height="30" alt="gmail logo"> </a>
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvarezlm386&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
