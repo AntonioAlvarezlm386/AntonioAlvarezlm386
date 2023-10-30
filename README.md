@@ -1,7 +1,7 @@
 # Hi 👋!
 ## I´m Antonio
 
-I love to challenge myself with new and interesting projects. I focus mainly on web development, but i often do other things such science stuff.
+I love to challenge myself with new and interesting projects. I focus mainly on web development, but I often do other things such science stuff.
 
 ## 💻 Technologies which I use:
 
