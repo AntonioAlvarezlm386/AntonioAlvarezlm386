@@ -3,7 +3,7 @@
 
 I love to challenge myself with new and interesting projects. I focus mainly on web development, but I often do other things such science stuff.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning nodeJs.
 
 ## 💻 Technologies which I use:
 
@@ -20,8 +20,8 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
 </div>
 
 ### Backend Technologies
