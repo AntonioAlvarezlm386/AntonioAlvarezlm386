@@ -3,7 +3,7 @@
 
 I love to challenge myself with new and interesting projects. I focus mainly on web development, but I often do other things such science stuff.
 
-- 🌱 I’m currently learning microservices.
+- 🌱 I’m currently learning C# and ASP.NET MVC5.
 
 ## 💻 Technologies which I use:
 
