@@ -3,7 +3,7 @@
 
 I love to challenge myself with new and interesting projects. I focus mainly on web development, but I often do other things such science stuff.
 
-- 🌱 I’m currently learning C# and ASP.NET MVC5.
+- 🌱 I’m currently learning microservices.
 
 ## 💻 Technologies which I use:
 
@@ -28,14 +28,20 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" height="30" alt="springboot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="30" alt="express logo"  />
   <img width="12" />
+  <img src="https://cdn.prod.website-files.com/5fabc175035e22a2b52f04d6/62791fb91b8d0cdecaebfd18_sql_server_rds.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://www.ispirer.net/images/asp.net.logo.png" height="30" alt="express logo"  />
+  <img width="20" />
 </div>
 
 ### Tools
@@ -53,7 +59,7 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman logo"  />
   <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
   <img width="12" />
 </div>
 
