@@ -44,7 +44,7 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 <div align="left">
   <img src="https://logo.svgcdn.com/d/jetpackcompose-original.png" height="40" alt="compose logo"  />
   <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" height="40" alt="compose logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" height="40" alt="kotlin logo"  />
   <img width="12" />
 </div>
 
