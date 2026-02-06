@@ -10,7 +10,7 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 ### Frontend Technologies
 
 <div align="left">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/jquery_logo.svg" height="40" alt="jquery logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" alt="next"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -60,7 +60,3 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 ## 🌐 Contact Me:
 <a href="https://www.linkedin.com/in/antonio-lópeza7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/></a>
 <a href="mailto:antoniolm386@gmail.com"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png?f=webp&amp" height="30" alt="gmail logo"> </a>
-
-
-## 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvarezlm386&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
