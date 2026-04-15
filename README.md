@@ -56,6 +56,18 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
   <img width="12" />
 </div>
 
+# 📊 Stats:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AntonioAlvarezlm386&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlvarezlm386&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Contact Me:
 <a href="https://www.linkedin.com/in/antonio-lópeza7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/></a>
