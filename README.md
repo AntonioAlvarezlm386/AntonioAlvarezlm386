@@ -7,7 +7,7 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 
 ## 💻 Technologies which I use:
 
-### Frontend Technologies
+> Frontend Technologies
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" alt="next"  />
@@ -22,7 +22,7 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
   <img width="12" />
 </div>
 
-### Backend Technologies
+> Backend Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -40,7 +40,7 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
   <img width="20" />
 </div>
 
-### Mobile Technologies
+> Mobile Technologies
 <div align="left">
   <img src="https://logo.svgcdn.com/d/jetpackcompose-original.png" height="40" alt="compose logo"  />
   <img width="12" />
@@ -49,14 +49,14 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 </div>
 
 
-### Tools
+> Tools
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" height="40" alt="docker logo"  />
   <img width="12" />
 </div>
 
-# 📊 Stats:
+## 📊 Stats:
 
 <table>
   <tr>
@@ -70,5 +70,8 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 </table>
 
 ## 🌐 Contact Me:
-<a href="https://www.linkedin.com/in/antonio-lópeza7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/></a>
-<a href="mailto:antoniolm386@gmail.com"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png?f=webp&amp" height="30" alt="gmail logo"> </a>
+
+  <a href="https://www.linkedin.com/in/antonio-lópeza7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/></a>
+  <a href="mailto:antoniolm386@gmail.com"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png?f=webp&amp" height="30" alt="gmail logo"> </a>
+
+
